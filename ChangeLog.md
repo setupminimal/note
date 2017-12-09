@@ -1,3 +1,5 @@
 # Changelog for note
 
-## Unreleased changes
+	## 1st release
+
+	Basic functionality.
